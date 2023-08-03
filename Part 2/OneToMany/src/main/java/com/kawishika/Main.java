@@ -12,7 +12,6 @@ public class Main {
         Session session = SessionConfigure.getInstance().getSession();
         Author author = new Author("A001", "Kawishika", "FEadf@gmamf.com");
         ArrayList<Book> books = new ArrayList<>();
-
         Book book1 = new Book("B001", "Madolduwa Remastard", "GG",author);
         Book book2 = new Book("B002", "Madolduwa Remastard", "GG",author);
         books.add(book1);

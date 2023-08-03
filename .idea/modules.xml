@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ManyToMany.iml" filepath="$PROJECT_DIR$/ManyToMany.iml" />
       <module fileurl="file://$PROJECT_DIR$/ORM Assignmet 1.iml" filepath="$PROJECT_DIR$/ORM Assignmet 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/OneToMany.iml" filepath="$PROJECT_DIR$/OneToMany.iml" />
       <module fileurl="file://$PROJECT_DIR$/OneToOne.iml" filepath="$PROJECT_DIR$/OneToOne.iml" />
